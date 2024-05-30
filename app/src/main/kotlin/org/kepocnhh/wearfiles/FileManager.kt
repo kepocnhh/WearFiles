@@ -1,4 +1,4 @@
-package com.dertefter.wearfiles
+package org.kepocnhh.wearfiles
 
 import android.content.Intent
 import android.os.Environment

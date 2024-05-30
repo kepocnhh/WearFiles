@@ -1,4 +1,4 @@
-package com.dertefter.wearfiles;
+package org.kepocnhh.wearfiles;
 
 import android.animation.ObjectAnimator;
 import android.util.Log;
