@@ -1,18 +1,7 @@
-# Wearable File Manager
+# WearFiles
 
-![Wearable File Manager](screenshots/Screenshot_20230903_000846.png)
+A project to determine a way to access files on watches with [Wear OS](https://wearos.google.com).
 
-Manage your files using your wearable device! 📁
+---
 
-## Features
-
-- Designed for Wear OS
-- Create, remove, rename, cut, and copy folders and files in your device storage.
-- Access your music, photos, videos, and other files.
-
-## Downloads
-
-[Releases Page](https://github.com/dertefter/WearFiles/releases)
-
-
-P.S. I'm very tired. 
+Based on code from the [WearFiles](https://github.com/dertefter/WearFiles) project. The author of the original is [dertefter](https://github.com/dertefter).
