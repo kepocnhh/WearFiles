@@ -41,14 +41,13 @@ fun ComponentIdentity.getVersion(): String {
 
 android {
     namespace = "org.kepocnhh.wearfiles"
-    compileSdk = 34
-//    compileSdk = Version.Android.compileSdk
+    compileSdk = Version.Android.compileSdk
 
     defaultConfig {
         applicationId = namespace
-        minSdk = 29
-//        minSdk = Version.Android.minSdk
+        minSdk = Version.Android.minSdk
         targetSdk = 29
+//        targetSdk = 30
 //        targetSdk = Version.Android.targetSdk
         versionCode = 2
         versionName = "0.0.$versionCode"
